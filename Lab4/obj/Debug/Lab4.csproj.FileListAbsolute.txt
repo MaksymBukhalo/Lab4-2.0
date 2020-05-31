@@ -1,0 +1,26 @@
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.NewCarForm.resources
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.NewRentForm.resources
+C:\Users\Maksim Bukhalo\source\repos\Lab4\Lab4\obj\Debug\Lab4.NewVehicleForm.resources
+E:\Lab4-master\Lab4\bin\Debug\Lab4.exe.config
+E:\Lab4-master\Lab4\bin\Debug\Lab4.exe
+E:\Lab4-master\Lab4\bin\Debug\Lab4.pdb
+E:\Lab4-master\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Lab4-master\Lab4\obj\Debug\Lab4.MainForm.resources
+E:\Lab4-master\Lab4\obj\Debug\Lab4.NewCarForm.resources
+E:\Lab4-master\Lab4\obj\Debug\Lab4.NewRentForm.resources
+E:\Lab4-master\Lab4\obj\Debug\Lab4.NewVehicleForm.resources
+E:\Lab4-master\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Lab4-master\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Lab4-master\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Lab4-master\Lab4\obj\Debug\Lab4.exe
+E:\Lab4-master\Lab4\obj\Debug\Lab4.pdb

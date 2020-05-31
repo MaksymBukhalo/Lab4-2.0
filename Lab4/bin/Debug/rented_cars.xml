@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Rent>
+    <RentFirmName>Master</RentFirmName>
+    <RentedVehicles>
+      <Vehicle>
+        <CarCategory>Family</CarCategory>
+        <Car>
+          <ProductionCompany>BMW</ProductionCompany>
+          <Model>MBWX6</Model>
+          <Price>100000</Price>
+          <ProductionYear>2000</ProductionYear>
+        </Car>
+        <RentStartDate>15.05.2020</RentStartDate>
+        <RentPrice>500</RentPrice>
+        <Duration>24</Duration>
+        <CarNumber>AS1234DE</CarNumber>
+      </Vehicle>
+    </RentedVehicles>
+  </Rent>
+  <Rent>
+    <RentFirmName>Origin</RentFirmName>
+    <RentedVehicles>
+      <Vehicle>
+        <CarCategory>Cabriolet</CarCategory>
+        <Car>
+          <ProductionCompany>Lexus</ProductionCompany>
+          <Model>T12</Model>
+          <Price>60000</Price>
+          <ProductionYear>1960</ProductionYear>
+        </Car>
+        <RentStartDate>21.02.2020</RentStartDate>
+        <RentPrice>200</RentPrice>
+        <Duration>50</Duration>
+        <CarNumber>ZX1234AQ</CarNumber>
+      </Vehicle>
+    </RentedVehicles>
+  </Rent>
+</ArrayOfRent>
